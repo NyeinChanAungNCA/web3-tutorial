@@ -23,6 +23,7 @@
   "homepage": "https://github.com/NyeinChanAungNCA/web3-tutorial#readme",
   "dependencies": {
     "dotenv": "^16.3.1",
+    "ethereumjs-tx": "^2.1.2",
     "web3": "^4.0.2"
   }
 }
