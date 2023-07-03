@@ -1,0 +1,27 @@
+{
+  "name": "web3-tutorial",
+  "version": "1.0.0",
+  "description": "How to use Web3.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/NyeinChanAungNCA/web3-tutorial.git"
+  },
+  "keywords": [
+    "web3.js",
+    "web3",
+    "ethereum"
+  ],
+  "author": "Nyein Chan Aung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NyeinChanAungNCA/web3-tutorial/issues"
+  },
+  "homepage": "https://github.com/NyeinChanAungNCA/web3-tutorial#readme",
+  "dependencies": {
+    "web3": "^4.0.2"
+  }
+}
